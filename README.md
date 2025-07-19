@@ -37,7 +37,7 @@ AUTH/
 └── .gitignore
 ```
 
----
+---.
 
 ## 🧠 Kullanılan Teknolojiler
 
